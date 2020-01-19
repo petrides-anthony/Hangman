@@ -1,2 +1,4 @@
 # Hangman
-![Image description](/images/favicon.png)
+
+## Application Preview
+![Application Screenhot](/images/ApplicationScreenshot.JPG)
